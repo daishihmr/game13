@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.actorom</groupId>
+  <artifactId>actorom</artifactId>
+  <versioning>
+    <versions>
+      <version>0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20121022111056</lastUpdated>
+  </versioning>
+</metadata>
