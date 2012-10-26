@@ -3,9 +3,11 @@
   <groupId>com.googlecode.actorom</groupId>
   <artifactId>actorom</artifactId>
   <versioning>
+    <release>0.4k</release>
     <versions>
       <version>0.5-SNAPSHOT</version>
+      <version>0.4k</version>
     </versions>
-    <lastUpdated>20121022111056</lastUpdated>
+    <lastUpdated>20121022154347</lastUpdated>
   </versioning>
 </metadata>

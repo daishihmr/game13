@@ -10,6 +10,9 @@
 		<repository>
 			<id>local-repo</id>
 			<url>file:${basedir}/lib-repo</url>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
 		</repository>
 	</repositories>
 
@@ -37,13 +40,18 @@
 		<dependency>
 			<groupId>com.googlecode.actorom</groupId>
 			<artifactId>actorom</artifactId>
-			<version>0.5-SNAPSHOT</version>
+			<version>0.4k</version>
 		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.jbox2d</groupId> -->
+<!-- 			<artifactId>jbox2d-library</artifactId> -->
+<!-- 			<version>2.1.2.2</version> -->
+<!-- 		</dependency> -->
 	</dependencies>
 
 	<build>
