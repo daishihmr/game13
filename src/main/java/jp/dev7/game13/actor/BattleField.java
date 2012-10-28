@@ -1,9 +1,9 @@
 package jp.dev7.game13.actor;
 
 import static com.googlecode.actorom.dsl.Messaging.*;
-import jp.dev7.game13.actor.message.JoinMessage;
-import jp.dev7.game13.actor.message.SoldOutMessage;
-import jp.dev7.game13.actor.message.TickMessage;
+import jp.dev7.game13.message.JoinMessage;
+import jp.dev7.game13.message.SoldOutMessage;
+import jp.dev7.game13.message.TickMessage;
 
 import com.googlecode.actorom.Address;
 import com.googlecode.actorom.Topology;

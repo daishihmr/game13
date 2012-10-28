@@ -1,4 +1,4 @@
-package jp.dev7.game13.actor.message;
+package jp.dev7.game13.message;
 
 import com.googlecode.actorom.Address;
 
